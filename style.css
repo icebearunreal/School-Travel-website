@@ -1,0 +1,15 @@
+body {
+    background-image: url('Assam.avif');
+    background-repeat: no-repeat;
+    background-position: center center; 
+    background-size: cover;             
+    background-attachment: fixed;       
+    color: aliceblue;
+}
+
+.heading {
+    text-decoration: underline;
+    text-align: center;
+    text-shadow: 10px 2px 4px rgba(0, 0, 0, 0.7); 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
