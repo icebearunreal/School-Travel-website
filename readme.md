@@ -6,4 +6,4 @@
 ### I managed the gitstuff and my friends made the actual pages! 
 ### This is a public repo, so I cannot reveal any names  :D
 
-## OUR WEBSITE IS HOSTED [HERE](https://github.com/icebearunreal/School-Travel-website)
+## OUR WEBSITE IS HOSTED [HERE](https://icebearunreal.github.io/School-Travel-website/)
